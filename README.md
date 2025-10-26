@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Frontend Developer | Learning, Building, and Growing Every Day<br><br>💻 I’m currently learning React JS, Tailwind CSS<br><br>💬 Ask me about JavaScript, CSS, HTML<br><br>📫 How to reach me panjisounak@gmail.com
+🌱 Frontend Developer | Learning, Building, and Growing Every Day<br><br>💻 I’m currently learning React JS, Tailwind CSS<br><br>💬 Ask me about JavaScript, CSS, HTML<br><br>💡 Looking for a Frontend Developer internship opportunity!<br><br>📫 How to reach me panjisounak@gmail.com
 
 
 ## 🌐 Socials:
